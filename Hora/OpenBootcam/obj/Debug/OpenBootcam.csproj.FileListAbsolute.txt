@@ -1,0 +1,8 @@
+C:\Users\steven\Documents\programacion\Hora\OpenBootcam\bin\Debug\OpenBootcam.exe.config
+C:\Users\steven\Documents\programacion\Hora\OpenBootcam\bin\Debug\OpenBootcam.exe
+C:\Users\steven\Documents\programacion\Hora\OpenBootcam\bin\Debug\OpenBootcam.pdb
+C:\Users\steven\Documents\programacion\Hora\OpenBootcam\obj\Debug\OpenBootcam.csproj.AssemblyReference.cache
+C:\Users\steven\Documents\programacion\Hora\OpenBootcam\obj\Debug\OpenBootcam.csproj.SuggestedBindingRedirects.cache
+C:\Users\steven\Documents\programacion\Hora\OpenBootcam\obj\Debug\OpenBootcam.csproj.CoreCompileInputs.cache
+C:\Users\steven\Documents\programacion\Hora\OpenBootcam\obj\Debug\OpenBootcam.exe
+C:\Users\steven\Documents\programacion\Hora\OpenBootcam\obj\Debug\OpenBootcam.pdb
